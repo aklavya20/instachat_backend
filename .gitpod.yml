@@ -1,0 +1,10 @@
+image: node:20
+
+tasks:
+  - name: Start Server
+    command: npm install && npm start
+
+ports:
+  - port: 3000
+    onOpen: open-preview
+    visibility: public
