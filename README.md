@@ -24,4 +24,4 @@ with the `'<YOUR-PROJECT-ID>'` in `/controllers/auth_controller.js`.
 
 **Backend:** Appwrite
 
-## 👨‍💻 Author : [@Snehasis4321](https://www.github.com/Snehasis4321)
+## 👨‍💻 Author : [@aklavya20](https://www.github.com/aklavya20)

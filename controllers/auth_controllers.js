@@ -1,10 +1,8 @@
 import { Client, Account, ID, Functions } from "appwrite";
 
 const client = new Client()
-  .setEndpoint(
-    "https://8080-aklavya20-integrationfo-nyegpb4hh8i.ws-us118.gitpod.io/v1"
-  )
-  .setProject("68236a41003b6bb7ed6f");
+  .setEndpoint("https://cloud.appwrite.io/v1")
+  .setProject("67f26b71002a16a7623d");
 
 const account = new Account(client);
 
